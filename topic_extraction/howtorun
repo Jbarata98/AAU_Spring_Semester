@@ -1,0 +1,13 @@
+This code was done using an IDE Pycharm, 
+
+to run on terminal :
+
+python3 topic_extraction.py 
+
+***IMPORTANT*****
+
+You might need to install some packages, 
+
+to do it just write : pip install 'name of package' 
+
+should work I already tried it on the terminal aswell

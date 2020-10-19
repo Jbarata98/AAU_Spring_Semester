@@ -1,0 +1,57 @@
+
+
+Topic  0
+ Word school occurs 268.0 times.
+ Word girl occurs 413.0 times.
+ Word home occurs 209.0 times.
+ Word jesus occurs 212.0 times.
+ Word final occurs 219.0 times.
+ Word exam occurs 184.0 times.
+ Word long occurs 196.0 times.
+ Word university occurs 60.0 times.
+ Word business occurs 110.0 times.
+ Word true occurs 71.0 times.
+Topic  1
+ Word houston occurs 611.0 times.
+ Word time occurs 547.0 times.
+ Word texas occurs 446.0 times.
+ Word washington occurs 271.0 times.
+ Word congress occurs 276.0 times.
+ Word debating occurs 261.0 times.
+ Word favorite occurs 143.0 times.
+ Word month occurs 121.0 times.
+ Word abbott occurs 125.0 times.
+ Word stay occurs 125.0 times.
+Topic  2
+ Word trump occurs 628.0 times.
+ Word pandemic occurs 432.0 times.
+ Word trend occurs 400.0 times.
+ Word authoritarianism occurs 381.0 times.
+ Word disturbing occurs 381.0 times.
+ Word flynn occurs 434.0 times.
+ Word stuff occurs 402.0 times.
+ Word nefarious occurs 377.0 times.
+ Word presid occurs 563.0 times.
+ Word police occurs 200.0 times.
+Topic  3
+ Word online occurs 822.0 times.
+ Word community occurs 808.0 times.
+ Word freshman occurs 789.0 times.
+ Word semester occurs 789.0 times.
+ Word incoming occurs 787.0 times.
+ Word morning occurs 323.0 times.
+ Word twitter occurs 305.0 times.
+ Word life occurs 199.0 times.
+ Word story occurs 229.0 times.
+ Word girls occurs 146.0 times.
+Topic  4
+ Word friday occurs 606.0 times.
+ Word president occurs 186.0 times.
+ Word drake occurs 312.0 times.
+ Word happy occurs 242.0 times.
+ Word reade occurs 144.0 times.
+ Word pelosi occurs 260.0 times.
+ Word nancy occurs 260.0 times.
+ Word tara occurs 123.0 times.
+ Word biden occurs 177.0 times.
+ Word birthday occurs 137.0 times.

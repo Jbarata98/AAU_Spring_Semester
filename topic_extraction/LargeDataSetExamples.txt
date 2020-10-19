@@ -1,0 +1,1072 @@
+--------------------  Schema  ---------------------------
+
+
+
+  Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+CREATED_AT                          FIRST     *           DATETIME DY MON DD HH24:MI:SS TZD YYYY
+    Terminator string : '
+
+'
+    NULL if CREATED_AT = BLANKS
+ID                                   NEXT     *           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if ID = BLANKS
+USER_ID                              NEXT     *           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if USER_ID = BLANKS
+USER_NAME                            NEXT  4000           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if USER_NAME = BLANKS
+USER_ACCOUNT_NAME                    NEXT  4000           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if USER_ACCOUNT_NAME = BLANKS
+TEXT                                 NEXT  4000           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if TEXT = BLANKS
+GEO_LAT                              NEXT     *           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if GEO_LAT = BLANKS
+GEO_LON                              NEXT     *           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if GEO_LON = BLANKS
+CLIENT                               NEXT  4000           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if CLIENT = BLANKS
+ENTITY_USER_MENTIONS_ID              NEXT     *           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if ENTITY_USER_MENTIONS_ID = 0X2d31(character '-1')
+ENTITY_USER_MENTIONS_USER_NAME       NEXT  4000           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if ENTITY_USER_MENTIONS_USER_NAME = 0X6e756c6c(character 'null')
+IN_REPLY_TO_STATUS_ID                NEXT     *           CHARACTER            
+    Terminator string : '
+
+'
+    NULL if IN_REPLY_TO_STATUS_ID = 0X2d31(character '-1')
+
+
+
+--------------------  Data Instaces  ---------------------------
+
+
+
+Tue Feb 19 10:35:21 CET 2013
+303799925316141056
+315182375
+Ayu
+ayusariutami
+Engga ko ita♥ RT @MiftAmelia_: Gw diam:'|"@ayusariutami: Jantawa:| RT @MiftAmelia_: Hahaha:p "@ayusariutami: Gajah dong;;)
+-6.41092
+106.77955
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799925202878465
+931594189
+dyeng danvn
+dyengnova
+Baru nympe rumah hfff cpeek bngeet... ( ˘̶̀• ̯•˘̶́)
+-0.9498448
+100.454183
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799925353893888
+152082189
+Robson Fontes
+RobsonFontess
+Alta do Papi!
+-5.7927576
+-35.1990579
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799925416800256
+135816028
+Astri Ramdania
+astriramdania
+Kelaperan (⌣́_⌣̀) RT @danoedanu: Kekenyangaaann.."
+-6.297709
+106.843721
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799925504880640
+530981015
+ゆきもん
+y_kpo
+@eri_mkdi1027 いかないの？
+43.0702104
+141.3510171
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+348002377
+eri_mkdi1027
+303799773322964993
+
+Tue Feb 19 10:35:21 CET 2013
+303799924703756288
+1153369652
+Wendist endyez
+Endyez
+Knpa kmu ndug? RT"@Kky_Ekky: lemes"
+-7.97742
+112.62376
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799925702029312
+299781893
+S  a  m
+samguest10
+I'm 17 at 1 minute past 10 ((AM)) 🎉🎁
+54.52199527
+-1.55719883
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799925718790145
+745327177
+'Yozgatli'
+_RRRx
+Taart maken.
+52.3240281
+5.5981715
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799925743960066
+151048846
+Richard Matthews
+AreMatthews
+@CHB_93 I'm fine on 6 hours, that's what I don't get! I should feel so fresh after 11!
+53.29515002
+-1.11169244
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+496971552
+CHB_93
+303799605051658240
+
+Tue Feb 19 10:35:21 CET 2013
+303799926016585728
+248901810
+K
+d33mzz
+I think the most when I try not to #fact37
+37.78873912
+-122.42182085
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799926146600961
+442924011
+bella
+biebsofdreams
+Entao nao
+-23.6365877
+-46.5957184
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799926150815745
+1021683931
+Steven Arden
+stevarden
+@be_bernardd27 buat apaan wkwk
+-6.90574
+107.59685
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+828662564
+be_bernardd27
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799926163390464
+193409456
+Omti Solaga
+LaReinaZoe
+You only miss the sun when it starts to snow, you only know you love her when you let her go. And you let her go. #Passenger #NP
+59.27698163
+17.90438438
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799926373117952
+180187635
+Desye Tanan
+desye_tanan
+Nih badan kenapa sih? Ayolah bersahabat!!
+-6.37107
+106.8326
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799926649933825
+91345189
+billie jean
+sttenny
+Reading Mein Kampf in history. Logic
+55.88065798
+-3.51548605
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799926662516738
+123964268
+Benjamin Brown
+Ben_K_Brown
+Long ass journey today... And ceebs
+52.7705593
+-1.5761621
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799926733807617
+773771216
+A♡EY
+AOEYLIN
+"@ygent_official: @IBGDRGN #GDRAGON for Vogue Korea Magazine Photoshoot #BIGBANG http://t.co/i3BnUFsJ" หล่อออออออ
+13.6144286
+100.7558817
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799925429370880
+470999828
+Batima 
+luscapqsim
+Crlh ontem a aula foto mt chata e so me deixaram sair 22:00, se começar assim vou pular o muro
+-22.27895129
+-42.50205616
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799927090323458
+434372181
+El Rudios
+RGailits
+#GM. Water!!
+57.3751236
+21.5542387
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799927056789504
+167139645
+Gio de Giovanni
+giovanicort
+I'm at Patio Vermelho - INSA (Araras, SP) http://t.co/E9LF3za2
+-22.3577842
+-47.39047237
+<a href="http://foursquare.com" rel="nofollow">foursquare</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799927119675392
+763869290
+Sandra Raydon 
+SandraRaydon
+@LoreenRaydon avec finesse vieux chat.
+47.32832575
+5.05718395
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+879974012
+LoreenRaydon
+303636505207922689
+
+Tue Feb 19 10:35:21 CET 2013
+303799926628962304
+1120443150
+Naly Shakur
+N_Shakur
+Bonje vais en profite pour ranger la chambre
+48.7365737
+2.2977979
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799927241338880
+340067276
+Manu~
+ManuelChaves97
+Este día va a ser eterno.
+-34.5719072
+-58.6409038
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799927207768064
+222797028
+fernando azqueta
+FernandoAzqueta
+@ibai_garcia ya estas levantado? Fiuuu madrugador ultimamente jajaja
+42.7854283
+-1.6914431
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+218187321
+ibai_garcia
+303797069234188288
+
+Tue Feb 19 10:35:21 CET 2013
+303799927392329728
+566555167
+ΔLGER RIE™
+MmeCriminel
+@LokmanIziLife :(
+49.4524656
+1.03418393
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+405353228
+LokmanIziLife
+303799759695663105
+
+Tue Feb 19 10:35:21 CET 2013
+303799927396515841
+478338117
+Ratna Dewi
+DhewiNha
+Ngantuk
+-2.01425
+106.11162
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799927451037697
+381372467
+Kucaaaaaai ♥
+SyasyaKamiliaaa
+@gabryellaxela evening Hopey ♡ watchu doin?
+5.3387163
+115.23456
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+222000783
+gabryellaxela
+303799333004910592
+
+Tue Feb 19 10:35:21 CET 2013
+303799927652364289
+176378794
+gebi bella
+gebybell
+I'm at @ukmaranatha (Bandung, Jawa Barat) w/ 6 others http://t.co/hfUr5Hgu
+-6.88625132
+107.58076429
+<a href="http://foursquare.com" rel="nofollow">foursquare</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799927723671552
+948611508
+Le Beau Parleur 
+Johns_78
+@MX210 Ptdrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+48.79761727
+2.12586818
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+571357260
+MX210
+303795720216014848
+
+Tue Feb 19 10:35:21 CET 2013
+303799927891456000
+847329967
+Daru Luhung Nugroho
+luhung_n
+@Kusumadewi511 okk
+-7.92111
+110.38027
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+252513691
+Kusumadewi511
+303799754989662208
+
+Tue Feb 19 10:35:21 CET 2013
+303799927996305408
+418741904
+Franco/Latina 
+UmaBrazileiraa
+@Mickael_Bdl Non mais oui j'vais pleurer la cst sûr :(
+40.458389
+-3.57280927
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+389931256
+Mickael_Bdl
+303799677843820544
+
+Tue Feb 19 10:35:21 CET 2013
+303799928034062336
+312793329
+عبدالله البلوشي 
+belooshi
+تكلم
+وانت
+غاضب
+فستقول
+اعظم
+حديث
+تندم
+عليه
+طوال
+حياتك
+AB
+24.96597495
+46.73196858
+<a href="http://tapbots.com/tweetbot" rel="nofollow">Tweetbot for iOS</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799928134721536
+147238233
+Hossam 
+Hossamy
+@AliMushimaa ويجوز تجاهلها مشان حرف الراء فقط، هل حرف مساويلوا مشكلة!
+52.52187824
+13.41071294
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+438236725
+AliMushimaa
+303799090070831104
+
+Tue Feb 19 10:35:21 CET 2013
+303799928352825345
+274621452
+Jacqueline Bunilha ზ
+jacquebunilha_
+eu so quero que o dia termine bem.
+-23.01921102
+-46.95945842
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799928503824384
+296116585
+Levent USTABAŞI
+narvent
+Her Yönüyle Trabzon Etkinlikleri-7 21-24 Şubat 2013 tarihlerinde Atatürk Kültür Merkezi Ankara'da yapılacak. @61saat ekibiyle oradayımm
+41.00511904
+39.7040921
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:21 CET 2013
+303799928575107072
+67839882
+OCHA rosanti
+Ocha_Rosanti
+At OchaRusdi Home [pic] — http://t.co/gGqCJyPA
+-5.124425
+119.501083
+<a href="http://path.com/" rel="nofollow">Path 2.0</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799928898064384
+438019837
+Rispeb ☺ 
+RispebHyuk
+Terimakasih boneng ;)"@Aasyria_: @RispebHyuk happy birthday, Allah bless you:)"
+-6.4264497
+107.4771334
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799928931627008
+280936995
+Tisa♠
+Shasya_etha
+Go home
+-5.11530607
+119.42316964
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799928935825409
+91665704
+Kath Wilson
+katsitter
+Sunny morning in Wales, off on my travels yay! Mini escape to South Coast for good food, wine & adventures :) x
+51.47636032
+-3.17994022
+<a href="http://www.twitter.com" rel="nofollow">Twitter for Windows Phone</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799929099390977
+562064375
+Cahya Risca
+RiscaCahya16
+Tenangkan :)) we can do "@VeraIndriyaaa: Huhu tinggal nosi:( Ya gak panik ko cuma gelisahRT @RiscaCahya16: Bacaaa da udah 3 tau berte
+-6.90623
+107.70413
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799929212649472
+1103591252
+#샵팸# (꽁냥.정민)도아너+판매
+0_shop_0
+@Gahyun_pyo 로긩ㄴㅎㅐ서!
+37.4507153
+126.8974581
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+1145489437
+Gahyun_pyo
+303799821213511680
+
+Tue Feb 19 10:35:22 CET 2013
+303799929111977984
+116150887
+☮Gii
+giovannaluna_
+@bialves_ oxiii!  Jaja a gente conversa gata..
+-23.595627
+-46.6068925
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+62146985
+bialves_
+303799782281969664
+
+Tue Feb 19 10:35:22 CET 2013
+303799929040674816
+257954824
+Ahmed Alenezy
+ahmed_9rea7
+صباح الخير : يبدو أن اليوم سيكون من أجمل الايام  بداية بشرى عودة المطوع لعمله ومن ثم عودة قناة اليوم وانشالله تكتمل بفوز الملكي بالبطولة
+29.2853838
+47.8252261
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799929422364672
+272302025
+lanti sitohang
+lanti_sitohang
+Moddokhoddok....:-(
+-6.2490204
+106.9714044
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799929661423616
+243990110
+auRyaNtie syaLindRi
+yantie_syalin
+Iyaa kak,,tp tp tp...:D"@Iko_Ceriko: 1,1 aja mbem RT @yantie_syalin: Pengeen ini, pengeen itu banyak sekaLi, haahhaha...:D"
+-7.54708
+111.66069
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799929699180544
+358072665
+工 ђคг工รђ ภคคאคк 
+Harish_Charan
+@Harshi_25 avna xam ela rasevu
+17.4361854
+78.3938747
+<a href="http://www.tweetcaster.com" rel="nofollow">TweetCaster for Android</a>
+598479105
+Harshi_25
+303799564304019456
+
+Tue Feb 19 10:35:22 CET 2013
+303799929804046336
+378993717
+icko judha d putra ☮
+putraicko
+Kenyang  (@ Warung Ayam Geprek Bu Rum) http://t.co/Xof7fvnr
+-7.775809
+110.39542032
+<a href="http://foursquare.com" rel="nofollow">foursquare</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799929850195969
+935571012
+✪Lesleyy°
+leelaiguhh
+#OneShot ... you got this sister! I love you much muchoO! Go get it!!! ♥ #KeepHerSafe
+14.105258
+121.1346523
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799930022162432
+553038392
+⌣̊┈̥.-̶̯͡»̶̥✽̶̛̗Ale§
+PrincesSexScort
+@Juanoscar38Juan Oqueii papi, x q aerolinea? American Airline? No conozco otra que llegue a PR :s
+18.2515
+-93.22088
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+916476690
+Juanoscar38Juan
+303799640308994049
+
+Tue Feb 19 10:35:22 CET 2013
+303799930085064704
+304203718
+Intan ◦^⌣^◦
+intanfarahiyah_
+2 sd "@Tweetnesian: #RemajaIndonesia kamu kangen suasana kelas berapa ?"
+-0.0400479
+109.3316055
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799929674006528
+564776370
+WharmanRivai 
+Wharman121
+bakti zozial tuminting..kmpung persigo..
+1.4569351
+124.8395622
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799929934069760
+250488507
+a m o ツ
+rizkirosalinda
+Harus f o k u s !B-)
+-7.9290324
+112.6023406
+<a href="https://mobile.twitter.com" rel="nofollow">Mobile Web (M5)</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799930185728000
+421733110
+banker
+kobata_a
+待ち合わせついでに選手名鑑購入 @ TSUTAYA 三年坂店にタッチ！ http://t.co/NXaGhKfB
+32.801689
+130.709488
+<a href="http://tou.ch/" rel="nofollow">ロケタッチ（loctouch）</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799930227654656
+720318824
+♔נυℓιαα !
+kusjuliia
+Kut computerss.
+51.88937335
+6.37711196
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799930311544832
+382267730
+April 20th #$$$ .
+SUMiN_FOREiGN
+ツ♡✔
+(https://t.co/bMU6EuVL)
+39.8187935
+-89.664937
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799930718416896
+19585689
+Craig Wilkie
+cmw39
+Checking into temple complex and checking out of tech for a bit. It's henna time. (@ Devipuram) http://t.co/DSMl4bgX
+17.69498289
+83.02831498
+<a href="http://foursquare.com" rel="nofollow">foursquare</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799930760355840
+
+64053642
+Th †
+costath_
+Esse calor ta de mata!
+-22.80754079
+-43.42635018
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799930760343552
+69809265
+Michelle Dewald
+MichelleDewaldd
+So its like I'm getting bday sex from Andrew but I don't want to wait till he's off work so if you know any down bitches let me kno
+45.4261628
+-122.56133286
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931007807489
+116123225
+ade firmansyah
+alenkalenk
+i vote WE RT @Noisy_bows: @alenkalenk @benn_wae for Individually,PES got more slightly better than FIFA,,but For Team Work,FIFA got that
+-6.1312438
+106.6529295
+<a href="http://www.tweetcaster.com" rel="nofollow">TweetCaster for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931032973312
+193371144
+Kim Dallas
+kimdallas
+So bored already never anything to do in Liverpool
+53.42837
+-2.86582
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931259473920
+273753019
+didik sunandi
+dhidie_Jp
+*nyodoringarpu* "@afienafinaa: Ada yg mau garukin tenggorokan ga heheh :D"
+-6.88116
+107.60347
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931355951104
+273517715
+Assakin Barrun
+Barrun29
+Rupamu!! Ora entuk" kui.. Wkwkwk.. @tit0_arya: strike RT @Barrun29: Yooooh..RTtit0_arya: mancing yoh RT @Barrun29: Soto ayam
+-8.05588
+111.90082
+<a href="http://blackberry.com/twitter" rel="nofollow">Twitter for BlackBerry®</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931104284673
+196323238
+Batcat. ~
+SilviaFuckYeah
+Me muero de hambre.
+42.292143
+-8.6261564
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931502743552
+477608644
+SexDrive ▲
+baabyfoox
+@_ChloeMusic merci😘😘
+43.26188795
+5.40384122
+<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+540138848
+_ChloeMusic
+303797804030115840
+
+Tue Feb 19 10:35:22 CET 2013
+303799931779559424
+350571205
+☆  iMadz  ☆
+AbsolutelyMadz
+A wise and beautiful mother grows wiser and more beautiful as one more fantastic year of her life draws… http://t.co/jotiNNnq
+14.55256125
+121.0120006
+<a href="http://instagram.com" rel="nofollow">Instagram</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931787956224
+415819594
+Mannou Al-kraidies
+munira1993
+@donghae861015 ح ق ي ر .. ت ب ن انت واحد ماتقدر ابد ابد
+24.7407282
+46.7718808
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+130834357
+donghae861015
+303799238263971840
+
+Tue Feb 19 10:35:22 CET 2013
+303799931838271488
+400317352
+Egonunkelimeanlamı
+onrhntuncel
+I'm at Yeşilköy Sahili (İstanbul, Türkiye) w/ 4 others http://t.co/bvUr55YW
+40.95739931
+28.82415533
+<a href="http://foursquare.com" rel="nofollow">foursquare</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931867639808
+571800880
+mariane réus
+senhoritareus
+Nossa tem um moçoilo do CEDUP do meu lado que nossa hahahh
+-28.71402991
+-49.2888933
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931834101760
+254570937
+Mary Nogales
+Mary_Nogales
+Deseando q llegue junio,las formas q tienen algunas personas aquí no me gustan. Deseando perderos de vista y ver a la gente q merece la pena
+37.8907855
+-6.5616177
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799931884421120
+5611322
+ついてるゆずる
+tsuiteruyuzuru
+ローソン 京丹波蒲生店にタッチ！ http://t.co/MNmRAtKW
+35.16198972
+135.42572444
+<a href="http://tou.ch/" rel="nofollow">ロケタッチ（loctouch）</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799932081561602
+244114257
+John Paul M. Sanchez
+jopomsanchez
+I'm at Cash And Carry http://t.co/sluKfPRF
+14.55828603
+121.0070982
+<a href="http://foursquare.com" rel="nofollow">foursquare</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799932022841345
+256184092
+Ally Price
+ally95price
+Really fancy a fry up. #starving
+52.2027426
+-3.0369059
+<a href="https://mobile.twitter.com" rel="nofollow">Mobile Web (M5)</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799932161241088
+33389699
+Ferdaus Nadzir
+ferdausnadzir
+Work @ noisy-bunch http://t.co/UuJbJsIx
+3.1546364
+101.6229462
+<a href="http://instagram.com" rel="nofollow">Instagram</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799932261916674
+611776506
+The C :っ) sper
+MhiezhieCoolz
+Kamret ........ , buat mampus keq nya ne anaq ~~_______________~~
+0.507598
+101.4316753
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
+
+Tue Feb 19 10:35:22 CET 2013
+303799932421296128
+407064825
+juan manuel
+juanma_vp_a\r\n\r\nh
+@AzcoitiaJuan estoy en el tercerorecreo
+39.8409301
+-2.4999837
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+994842054
+AzcoitiaJuan
+303785984045244416
+
+Tue Feb 19 10:35:22 CET 2013
+303799932412907522
+872168725
+Anita Coronado.♡
+AnitaCoronado1
+Que malo está el jarabe #baaag :$ odio los medicamentos enserio.
+38.2764148
+-6.9201634
+<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+-1
+null
+-1
